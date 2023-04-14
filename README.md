@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asimkhan8107
-- 👀 I’m interested in DevOps projects
+- 👀 I’m interested in VLSI Design and Verification projects
 - 🌱 I’m currently learning git , linux 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me asimkhan8107@gmail.com
