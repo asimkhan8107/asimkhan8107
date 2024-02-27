@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @asimkhan8107
+- 👋 Hi, I’m Asim Khan
 - 👀 I’m interested in VLSI Design and Verification projects
-- 🌱 I’m currently learning git , linux 
+- 🌱 I’m currently learning and Exploring VLSI 
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me asimkhan8107@gmail.com
+- 📫 You can reach me either asimkhan8107@gmail.com or linkedin.com/in/asimkhan-vlsi
+
 
 <!---
 asimkhan8107/asimkhan8107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
